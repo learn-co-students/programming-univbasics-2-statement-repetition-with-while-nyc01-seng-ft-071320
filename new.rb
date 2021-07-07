@@ -1,4 +1,3 @@
-# Write your code here
 count = 10
 message = "Happy New Year!"
 
